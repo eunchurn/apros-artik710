@@ -4,10 +4,13 @@
 [submodule "linux-artik"]
 	path = linux-artik
 	url = https://github.com/eunchurn/linux-artik
-	branch = A710/v4.4
+	branch = A710/v4.1
 [submodule "build-artik"]
 	path = build-artik
 	url = https://github.com/eunchurn/build-artik
 [submodule "boot-firmwares-artik710"]
 	path = boot-firmwares-artik710
 	url = https://github.com/eunchurn/boot-firmwares-artik710
+[submodule "xenomai"]
+	path = xenomai
+	url = git://git.xenomai.org/xenomai.git
